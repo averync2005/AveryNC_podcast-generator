@@ -1,2 +1,2 @@
 # AveryNC_podcast-generator
-I followed along the Practical Github Action LL Course by Ray Villalobos
+I followed along and completed the Practical Github Actions LinkedIn Learning Course by Ray Villalobos
