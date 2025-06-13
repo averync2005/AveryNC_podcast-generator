@@ -1,6 +1,6 @@
-name: "Podcast Generator"
+name: "AveryNC Podcast Generator"
 author: "Avery Nudell-Cook"
-description: "Generates a feed for a podcast from a YAML file. Practical Github Actions LinkedIn Learning course."
+description: "This generates a feed for a podcast from a YAML file --> I followed along and completed the Practical Github Actions LinkedIn Learning Course by Ray Villalobos"
 runs:
   using: "docker"
   image: "Dockerfile"
